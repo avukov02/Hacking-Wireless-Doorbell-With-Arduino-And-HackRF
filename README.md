@@ -10,10 +10,10 @@ To complete this project I had to do the following:
 ![alt text](https://github.com/avukov02/Hacking-Wireless-Doorbell-With-Arduino-HackRF/blob/master/arduinoattack.png)
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/avukov02/Hacking-Wireless-Doorbell-With-Arduino-HackRF/blob/master/arduinoscheme.png)
 
-##HackRF replay attack
+## HackRF replay attack
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/avukov02/Hacking-Wireless-Doorbell-With-Arduino-HackRF/blob/master/hackrfreplayattack.png)
 
 
